@@ -218,7 +218,7 @@ A road trip is a helpful analogy:
 * A `scaffold` generator is like driving double the speed limit and driving past your exit by 50 miles, forcing you to backtrack all the way back to get on the right road.
 
 * A `resource` generator is like going the speed limit and taking the right exit; the `scaffold` may have flown by you initially, but with the `resource` option you'll end up getting to the final destination in one piece.
-
+ 
 
 ## Resources
 

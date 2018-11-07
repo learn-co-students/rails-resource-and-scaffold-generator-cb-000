@@ -1,3 +1,4 @@
+rails g scaffold Article title:string body:text
 # Resource and Scaffold Generator
 
 ## Objectives
